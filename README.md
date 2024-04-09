@@ -46,6 +46,5 @@
     <h2>Contato</h2>
    <p>Se você tiver alguma dúvida ou sugestão sobre os cursos ou projetos, sinta-se à vontade para entrar em contato comigo.</p>
     <ul>
-        <li><strong>E-mail:</strong> seu-email@example.com</li>
         <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/edson-bruno-dev/">Edson Bruno</a></li>
     </ul>
